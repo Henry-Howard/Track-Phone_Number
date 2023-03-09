@@ -8,7 +8,7 @@ A simple Track Phone_Number mini project with Python
 ### How to setup this project?
 1. Clone this project
 2. Open with Pycharm IDE
-3. import Package:
+3. Import Package:
    - pip install phonenumbers
    - pip install opencage
    - pip install folium
